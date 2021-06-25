@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c1cf97f8.chunk.css",
+    "main.js": "/static/js/main.f7ff5f84.chunk.js",
+    "main.js.map": "/static/js/main.f7ff5f84.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f3992565.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f3992565.js.map",
+    "static/js/2.c40bf883.chunk.js": "/static/js/2.c40bf883.chunk.js",
+    "static/js/2.c40bf883.chunk.js.map": "/static/js/2.c40bf883.chunk.js.map",
+    "static/js/3.937f9731.chunk.js": "/static/js/3.937f9731.chunk.js",
+    "static/js/3.937f9731.chunk.js.map": "/static/js/3.937f9731.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c1cf97f8.chunk.css.map": "/static/css/main.c1cf97f8.chunk.css.map",
+    "static/js/2.c40bf883.chunk.js.LICENSE.txt": "/static/js/2.c40bf883.chunk.js.LICENSE.txt",
+    "static/media/Pizza Photo.6fddc411.png": "/static/media/Pizza Photo.6fddc411.png",
+    "static/media/Strawberry cake Photo.e0dfcfbc.png": "/static/media/Strawberry cake Photo.e0dfcfbc.png",
+    "static/media/Tortellini Photo.072c25ad.png": "/static/media/Tortellini Photo.072c25ad.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f3992565.js",
+    "static/js/2.c40bf883.chunk.js",
+    "static/css/main.c1cf97f8.chunk.css",
+    "static/js/main.f7ff5f84.chunk.js"
+  ]
+}
